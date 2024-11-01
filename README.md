@@ -21,12 +21,8 @@ melino-dev touring
 ---
 [![](https://visitcount.itsvg.in/api?id=melino-dev&icon=9&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
-<Proudly Cooperating with turing>
--->
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )-->
+Proudly Cooperating with turing
 
 ![turing](https://github.com/user-attachments/assets/e11460d4-b5fb-4c94-83f3-5f79ad5731c8)
 
