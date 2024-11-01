@@ -1,5 +1,8 @@
 # 💫 About Me:
-melino-dev touring
+Hello! I am a passionate web designer and developer with experience in HTML, CSS, Tailwind, Bootstrap, JavaScript, Node.js, and React. My diverse experience with various technologies has enabled me to create dynamic and user-friendly websites.
+
+I am also honored to collaborate with the Turing research team, where I am dedicated to continuous learning and achieving new innovations. I thrive on facing new challenges and continuously strive to enhance my skills and abilities. My goal is to make a positive impact on the projects and teams I work with.
+
 
 
 ## 🌐 Socials:
